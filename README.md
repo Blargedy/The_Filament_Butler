@@ -36,7 +36,7 @@ I put my two Prusa Mk3s into enclosures in order to print ABS/ASA without warpin
 ![image](https://user-images.githubusercontent.com/25805271/224467026-f5c57189-a3d7-455c-806a-2bd8bfd64417.png)
 
 1. Attach the Selector Collet to the Selector Body with two M3x10 SHCS.
-![image](https://user-images.githubusercontent.com/25805271/224471117-fa2cc535-b8ba-4a90-b255-8337c7b3e959.png)
+![image](https://user-images.githubusercontent.com/25805271/224475459-fd22f25b-125b-4e18-b91c-0072209beae0.png)
 
 1. Using a rubber mallet, insert the brass inserts into the tabbed slots on the Selector Body.
 ![image](https://user-images.githubusercontent.com/25805271/224474608-292a3848-1180-4405-ae23-7ba0c10f3053.png)
