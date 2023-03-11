@@ -25,7 +25,7 @@ I put my two Prusa Mk3s into enclosures in order to print ABS/ASA without warpin
 1. Attach the Frame Brackets with four M3x12 SHCS.
 ![image](https://user-images.githubusercontent.com/25805271/224464208-f53c7299-dffd-4992-9352-3d3f43fcd3e8.png)
 
-1. Cut five lengths of 4mm OD 2mm ID PTFE tubing, and place them in the Filament Stow Sections.
+1. Cut five 41.5mm lengths of 4mm OD 2mm ID PTFE tubing, and place them in the Filament Stow Sections.
 2. Secure the tubes with the Filament Stow Lid and four M3x22 SHCS.
 ![image](https://user-images.githubusercontent.com/25805271/224464624-0f932a71-0fd8-4261-9a60-6efbd2cbd9a3.png)
 
