@@ -19,7 +19,7 @@ I put my two Prusa Mk3s into enclosures in order to print ABS/ASA without warpin
 1. insert M3 square nuts in the following locations, aligning their holes with the cylindrical screw holes.
 ![image](https://user-images.githubusercontent.com/25805271/224463961-e90a7d2d-fb66-4dc1-95b4-8bdbcc52713f.png)
 
-1. Fasten the Pneymatic fitment bar to the main body with three M3x10 SHCS.
+1. Fasten the Pneumatic fitment bar to the main body with three M3x10 SHCS.
 ![image](https://user-images.githubusercontent.com/25805271/224464098-bbd0f200-e19b-405a-a582-e1b63e52bea7.png)
 
 1. Attach the Frame Brackets with four M3x12 SHCS.
